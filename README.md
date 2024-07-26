@@ -1,0 +1,1 @@
+# bash-push-commit-managed-remote
